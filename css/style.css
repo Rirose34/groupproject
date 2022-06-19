@@ -372,12 +372,14 @@ p.solid6 {
 }
 
 .footer-container {
-
     display: flex;
     list-style-type: none;
     justify-content: left;
-    margin-left: 500px;
-    
+    margin-left: 290px;
+}
+
+h3 {
+    margin-left: 150px;
 }
 
 .footer3 p {
@@ -389,7 +391,7 @@ p.solid6 {
 }
 .footeranchor {
     display: inline-block;
-    margin-left: 500px;
+    margin-left: 550px;
 }
 
 .footeranchor a {
