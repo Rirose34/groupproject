@@ -375,11 +375,11 @@ p.solid6 {
     display: flex;
     list-style-type: none;
     justify-content: left;
-    margin-left: 290px;
+    margin-left: 500px;
 }
 
 h3 {
-    margin-left: 150px;
+    margin-left: 370px;
 }
 
 .footer3 p {
@@ -391,7 +391,7 @@ h3 {
 }
 .footeranchor {
     display: inline-block;
-    margin-left: 550px;
+    margin-left: 750px;
 }
 
 .footeranchor a {
