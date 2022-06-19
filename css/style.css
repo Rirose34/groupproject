@@ -376,6 +376,7 @@ p.solid6 {
     display: flex;
     list-style-type: none;
     justify-content: left;
+    margin-left: 500px;
     
 }
 
@@ -388,6 +389,7 @@ p.solid6 {
 }
 .footeranchor {
     display: inline-block;
+    margin-left: 500px;
 }
 
 .footeranchor a {
