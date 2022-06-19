@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
 
 body {
     font-size: 16px;
